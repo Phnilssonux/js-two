@@ -4,7 +4,7 @@ let price = prompt("Enter Price");
 
 // From string to number
 
-let priceTag = parseFloat(price.replace(`$`,`49.99`))
+let priceTag = parseFloat(price.replace(`$`,``))
 
 // Add discount
 
